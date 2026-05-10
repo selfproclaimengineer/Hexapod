@@ -5,10 +5,7 @@ Proyek ini adalah sistem kontrol komprehensif untuk robot Hexapod 3-DOF (Degrees
 Sistem ini menggunakan perhitungan *Inverse Kinematics* (IK) dengan kompensasi sudut mekanik (*hardware offset*) dan dilengkapi dengan *Software Safety Limits* untuk mencegah kerusakan fisik pada motor servo tanpa menggunakan sensor arus eksternal.
 
 ## ⚙️ Spesifikasi Hardware Utama
-- **Microcontroller**: Teensy 4.1 (600MHz, FPU aktif untuk komputasi IK real-time).
-- **Servo Driver**: 2x PCA9685 (Daisy-chained via I2C, Address `0x40` dan `0x41`).
-- **Aktuator**: 18x Motor Servo (3 per kaki: Coxa, Femur, Tibia).
-- **Sensor**: IMU Yahboom (Kompas/Gyro) - *(Digunakan untuk fase keseimbangan dan rotasi selanjutnya)*.
+Rahasia
 
 ---
 
